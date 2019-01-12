@@ -1,0 +1,7 @@
+{
+  "name": "reddit-api-sample",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.8.0"
+  }
+}
